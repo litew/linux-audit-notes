@@ -11,3 +11,4 @@ image:https://img.shields.io/github/last-commit/litew/linux-audit-notes/main?sty
 . xref:auditd-conf.html#_Конфигурация_auditd[Конфигурация auditd]
 . xref:framework-conf.html#_Конфигурация_фреймворка[Конфигурация фреймворка]
 . xref:audit-rules.html#_Правила_аудита[Правила аудита]
+. xref:lost-events.html#_Потеря_событий[Потеря событий]
