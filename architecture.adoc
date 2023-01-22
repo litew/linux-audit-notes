@@ -1,7 +1,7 @@
 = Архитектура
 :hardbreaks-option:
 
-image::linux-audit-architecture.svg[]
+image:linux-audit-architecture.svg[align=center]
 
 Система аудита состоит из 2-х частей: фреймворка, работающего в ядре и userspace-приложений.
 
