@@ -14,3 +14,4 @@ image:https://img.shields.io/github/last-commit/litew/linux-audit-notes/main?sty
 . xref:lost-events.html#_Потеря_событий[Потеря событий]
 . xref:event-fields.html#_Поля_событий[Поля событий]
 . xref:record-types.html#_Типы_записей[Типы записей]
+. xref:userspace-trusted-apps.html#_Доверенные_приложения[Доверенные приложения]
