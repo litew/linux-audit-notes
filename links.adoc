@@ -1,0 +1,31 @@
+= linux audit notes
+:hardbreaks-option:
+:sectlinks:
+
+== Ссылки
+The Linux Audit Project
+https://github.com/linux-audit
+
+Proven Zero-Day Mitigation and Detection without Third-Party Tools
+https://redhat.slides.com/dobrown/deck?token=woyFu9IW#/
+
+Native Host Intrusion Detection with RHEL6 and the Audit Subsystem
+https://people.redhat.com/sgrubb/audit/audit_ids_2011.pdf
+
+The linux-audit Archives
+https://www.redhat.com/archives/linux-audit/
+
+Security + Data Science (Steve Grubb, разработчик linux-audit)
+http://security-plus-data-science.blogspot.com/
+
+RHEL 9 Security Guide: system auditing
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/security_hardening/auditing-the-system_security-hardening
+
+Auditd execution options in a container
+https://access.redhat.com/articles/4494341
+
+Preventing Privilege Escalation
+http://www.citi.umich.edu/u/provos/papers/privsep.pdf
+
+Shell Language Processing: Intrusion Detection with TF-IDF and Hash Encoding on Linux auditd
+https://towardsdatascience.com/shell-language-processing-machine-learning-for-security-intrusion-detection-with-linux-auditd-73d7196995c7
