@@ -1,0 +1,6 @@
+= linux audit notes
+:hardbreaks-option:
+:sectlinks:
+
+== Поля событий
+Описание полей: https://github.com/linux-audit/audit-documentation/blob/master/specs/fields/field-dictionary.csv
