@@ -4,3 +4,4 @@ image:https://img.shields.io/github/last-commit/litew/linux-audit-notes/main?sty
 
 . xref:update-history.html#_История_обновлений[История обновлений]
 . xref:architecture.html#_Архитектура[Архитектура]
+. xref:audit-event.html#_Событие_аудита[Архитектура]
