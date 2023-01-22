@@ -1,2 +1,5 @@
-. xref:update-history.html#_История_обновлений[История обновлений]
-. xref:architecture.html#_Архитектура[Архитектура]
+= Linux Audit notes
+
+image::https://github.com/litew/linux-audit-notes/actions/workflows/asciidoctor-ghpages.yml/badge.svg?branch=main[https://github.com/litew/linux-audit-notes/actions/workflows/asciidoctor-ghpages.yml]
+
+image::https://github.com/litew/linux-audit-notes/actions/workflows/pages/pages-build-deployment/badge.svg[https://github.com/litew/linux-audit-notes/actions/workflows/pages/pages-build-deployment]
