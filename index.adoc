@@ -1,1 +1,3 @@
 # linux-audit-manual
+
+. xref:update-history.html#_История_обновлений[История обновлений]
