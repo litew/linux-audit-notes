@@ -1,6 +1,7 @@
 # linux audit notes
 
 image:https://img.shields.io/github/last-commit/litew/linux-audit-notes/main?style=for-the-badge[GitHub last commit (branch)]
+image:https://img.shields.io/github/license/litew/linux-audit-notes?color=%23141321&style=for-the-badge[GitHub]
 
 . xref:update-history.html#_История_обновлений[История обновлений]
 . xref:architecture.html#_Архитектура[Архитектура]
