@@ -1,0 +1,1 @@
+[![GitHub Pages Publish](https://github.com/litew/linux-audit-manual/actions/workflows/asciidoctor-ghpages.yml/badge.svg?branch=main)](https://github.com/litew/linux-audit-manual/actions/workflows/asciidoctor-ghpages.yml)
