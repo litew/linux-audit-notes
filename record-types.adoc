@@ -1,0 +1,7 @@
+= linux audit notes
+:hardbreaks-option:
+:sectlinks:
+
+== Типы записей
+Описание типов:
+* https://access.redhat.com/articles/4409591#audit-record-types-2
