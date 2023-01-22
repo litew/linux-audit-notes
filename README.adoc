@@ -1,1 +1,2 @@
 . xref:update-history.html#_История_обновлений[История обновлений]
+. xref:architecture.html#_Архитектура[Архитектура]
