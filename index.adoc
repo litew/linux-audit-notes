@@ -6,3 +6,4 @@ image:https://img.shields.io/github/license/litew/linux-audit-notes?color=%23141
 . xref:update-history.html#_История_обновлений[История обновлений]
 . xref:architecture.html#_Архитектура[Архитектура]
 . xref:audit-event.html#_Событие_аудита[Событие аудита]
+. xref:loginuid-sessionid.html#_loginuid_и_sessionid[loginuid и sessionid]
