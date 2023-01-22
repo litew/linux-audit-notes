@@ -2,6 +2,7 @@
 :table-caption: Таблица
 :figure-caption: Изображение
 :hardbreaks-option:
+:sectlinks:
 
 == loginuid и sessionid
 `loginuid` и `sessionid` - идентификаторы, применяемые системой аудита для отслеживания пользователя с момента его входа в систему. Данные идентификаторы являются https://elixir.bootlin.com/linux/v3.10.108/source/include/linux/sched.h#L1239[полями структуры task_struct] и поэтому присутствуют в любом запущенном процессе системы. Посмотреть значение `loginuid` можно командой `cat /proc/PID/loginuid`; значение `sessionid` командой `cat /proc/PID/sessionid`.

@@ -1,5 +1,6 @@
 = linux audit notes
 :hardbreaks-option:
+:sectlinks:
 
 == Архитектура
 image:linux-audit-architecture.svg[link="linux-audit-architecture.svg", align=text-center]
