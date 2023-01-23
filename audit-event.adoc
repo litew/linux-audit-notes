@@ -1,4 +1,4 @@
-= linux audit notes
+= xref:index.html[linux audit notes]
 :hardbreaks-option:
 :sectlinks:
 

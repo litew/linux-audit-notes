@@ -1,4 +1,4 @@
-= linux audit notes
+= xref:index.html[linux audit notes]
 :table-caption: Таблица
 :figure-caption: Изображение
 :hardbreaks-option:
