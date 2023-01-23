@@ -9,7 +9,7 @@
 
 В таблице приведены только ключевые изменения, ссылки на полные changelog'и: https://github.com/linux-audit/audit-userspace/blob/2.8_maintenance/ChangeLog[audit-userspace] 2.x (RHEL 6-7), https://github.com/linux-audit/audit-userspace/blob/master/ChangeLog[audit-userspace 3.x] (RHEL 8). Информация об обновлении audit при выпуске новой версии RHEL приводится в https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/[release notes], в разделе "Security".
 
-
+.Краткий changelog
 [cols="1,1,6"]
 |===
 |Версия RHEL|Версия auditd|Изменение
@@ -34,4 +34,4 @@
 |7.7|2.8.5|Возможность задания параметра `space_left` в виде процента свободного места на разделе с журналом событий.
 
 |7.8|2.8.5|В RHEL 7.8 бэкпортирован из RHEL 8 параметр ядра `audit_backlog_limit`, позволяющий задавать размер очереди событий при инициализации системы аудита. В RHEL <= 7.7 размер очереди зашит в коде и равен 64 что приводит к потере событий при старте ОС из-за переполнения очереди событий.
-|==
+|===
