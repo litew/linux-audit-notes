@@ -13,6 +13,7 @@
 [cols="1,1,6"]
 |===
 |Версия RHEL|Версия auditd|Изменение
+
 |6.6|2.3.7|Добавлен bash-скрипт **/usr/sbin/augenrules** для объединения и загрузки правил аудита из каталога **/etc/audit/rules.d/** по вилдкарду ***.rules**.
 В RHEL 6.x скрипт augenrules задействован при выставлении параметра `USE_AUGENRULES=yes` в **/etc/sysconfig/auditd**.
 В RHEL 7.x скрипт augenrules задействован по умолчанию в systemd-юните **/usr/lib/systemd/system/auditd.service**.
