@@ -1,4 +1,5 @@
 = xref:index.html[linux audit notes]
+:docinfo: shared-head
 
 image:https://img.shields.io/github/last-commit/litew/linux-audit-notes/main?style=for-the-badge[link="https://github.com/litew/linux-audit-notes",120, float=right]
 
