@@ -1,6 +1,0 @@
-= xref:index.html[linux audit notes]
-:hardbreaks-option:
-:sectlinks:
-
-== Контекст аудита
-TO BE DONE
